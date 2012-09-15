@@ -1,0 +1,3 @@
+#!/bin/bash
+
+mkdir -m 770 -p /etc/pass && chgrp bhh1988 /etc/pass && make pass
